@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="xm_weather" />
+    <version value="1" />
+    <list>
+        <mapping class="com.example.pokedo.xmw.db.Province" />
+        <mapping class="com.example.pokedo.xmw.db.City" />
+        <mapping class="com.example.pokedo.xmw.db.County" />
+    </list>
+</litepal>
